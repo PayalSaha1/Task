@@ -1,3 +1,4 @@
 Name of brand:
 1.Apple
 2.OnePlus
+3.Galaxy S20+
