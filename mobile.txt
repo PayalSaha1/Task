@@ -1,4 +1,4 @@
 Name of brand:
-1.Apple
-2.OnePlus
+1.Apple iPhone11 Pro
+2.OnePlus 7pro
 3.Galaxy S20+
